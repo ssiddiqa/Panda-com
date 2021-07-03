@@ -1,0 +1,54 @@
+.navbar-container{
+    background-color: #F8F9FA;
+    margin-bottom: 80px;
+}
+.bg-color{
+    background-color: #FEEAE9;
+    border-radius: 12px;
+}
+.carousel-item{
+    padding: 20px 60px;
+}
+.price{
+    color: #FF4A92;
+    padding-bottom: 10px;
+}
+.btn{
+    background-color: #FF4A92;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    padding: 9px 20px;
+}
+.item-1, .item-2, .item-3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.item-1{
+    background-color: #FF9C35;
+    color: white;
+}
+.item-2{
+    background-color: #FF589B;
+    color: white;
+}
+.item-3{
+    background-color: #4289FF;
+    color: white;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#contact{
+    background-color: #FEEAE9;
+    height: 300px;
+    border-radius: 10px;
+}
+#contact h6{
+    color: grey;
+}
+footer{
+    text-align: center;
+    margin-top: 70px;
+}
